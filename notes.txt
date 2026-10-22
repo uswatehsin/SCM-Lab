@@ -1,1 +1,2 @@
 This Lab teaches Git commits and repository history.
+adding new line in notes.txt
